@@ -1,0 +1,33 @@
+# rubymine
+.idea/*
+!.idea/dictionaries
+
+# vim
+**.swp
+*.un~
+*.swo
+
+# tmux
+tmux*
+
+# mac
+.DS_Store
+
+# processes
+*.pid
+*.pid.lock
+
+# node
+node_modules
+package-lock.json
+yarn-error.log
+yarn-debug.log*
+.yarn-integrity
+
+# app
+.env
+.bundle
+.yardoc
+*.key
+log
+tmp
